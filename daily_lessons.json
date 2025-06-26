@@ -1,0 +1,20 @@
+[
+  {
+    "question": "Milkshake so'zining ma'nosi nima?",
+    "options": [
+      "Shirinlik",
+      "Ichimlik",
+      "Qahva"
+    ],
+    "answer": "Sutli ichimlik (milkshake)"
+  },
+  {
+    "question": "Sun so'zining ma'nosi nima?",
+    "options": [
+      "Oy",
+      "Yulduz",
+      "Koinot"
+    ],
+    "answer": "Quyosh"
+  }
+]
